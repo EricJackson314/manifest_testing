@@ -1,3 +1,15 @@
 {
-"name": "manifest_testing"
+	"name": "manifest_testing",
+	"version": "1.0.0",
+	"description": "Lorem ipsum e plurbis unum",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/EricJackson314/manifest_testing.git",
+		"branch": "main"
+	},
+	"authors": [{
+		"name": "Eric Jackson",
+		"email": "ebj29@cornell.edu",
+		"url": ""
+	}]
 }
