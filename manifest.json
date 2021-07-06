@@ -16,7 +16,7 @@
 			"name": "Grace Hopper",
 			"url": "https://en.wikipedia.org/wiki/Grace_Hopper",
 		}
-	]
+	],
 	"license": "MIT",
 	"category": "testing",
 	"platforms": [ "cypress", "cyw943907aeval1f", "cyw954907aeval1f", "xmc4800" ]
