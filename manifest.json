@@ -10,11 +10,11 @@
 	"authors": [
 		{
 			"name": "Eric Jackson",
-			"email": "ebj29@cornell.edu",
+			"email": "ebj29@cornell.edu"
 		},
 		{
 			"name": "Grace Hopper",
-			"url": "https://en.wikipedia.org/wiki/Grace_Hopper",
+			"url": "https://en.wikipedia.org/wiki/Grace_Hopper"
 		}
 	],
 	"license": "MIT",
