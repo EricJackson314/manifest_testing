@@ -1,7 +1,7 @@
 {
-	"name": "manifest_testing",
+	"name": "iRobot Roomba",
 	"version": "1.0.0",
-	"description": "Lorem ipsum e plurbis unum",
+	"description": "",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/EricJackson314/manifest_testing.git",
@@ -9,15 +9,16 @@
 	},
 	"authors": [
 		{
-			"name": "Eric Jackson",
-			"email": "ebj29@cornell.edu"
+			"name": "Collin Angle",
 		},
 		{
-			"name": "Grace Hopper",
-			"url": "https://en.wikipedia.org/wiki/Grace_Hopper"
+			"name": "Rodney Brooks",
+		},
+		{
+			"name": "Helen Greiner"
 		}
 	],
 	"license": "MIT",
-	"category": "testing",
-	"platforms": [ "cypress", "cyw943907aeval1f", "cyw954907aeval1f", "xmc4800" ]
+	"category": "other",
+	"platforms": [ "cypress", "cyw943907aeval1f", "cyw954907aeval1f" ]
 }
