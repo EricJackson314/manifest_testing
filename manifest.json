@@ -1,7 +1,7 @@
 {
 	"name": "iRobot Roomba",
 	"version": "1.0.0",
-	"description": "",
+	"description": "As you head out into the world again, your Roomba robot vacuum will make sure you come back to a clean home. Just the way you like it.",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/EricJackson314/manifest_testing.git",
