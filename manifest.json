@@ -2,23 +2,6 @@
 	"name": "iRobot Roomba",
 	"version": "1.0.0",
 	"description": "As you head out into the world again, your Roomba robot vacuum will make sure you come back to a clean home. Just the way you like it.",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/EricJackson314/manifest_testing.git",
-		"branch": "main"
-	},
-	"authors": [
-		{
-			"name": "Collin Angle"
-		},
-		{
-			"name": "Rodney Brooks"
-		},
-		{
-			"name": "Helen Greiner"
-		}
-	],
-	"license": "MIT",
 	"category": "other",
 	"platforms": [ "cypress", "cyw943907aeval1f", "cyw954907aeval1f" ]
 }
